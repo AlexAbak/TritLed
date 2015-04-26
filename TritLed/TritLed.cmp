@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by Cvpcb 0.201504241002+5622~22~ubuntu15.04.1-product   date = Вс. 26 апр. 2015 15:28:58
+
+BeginCmp
+TimeStamp = /55216C48;
+Reference = D1;
+ValeurCmp = -;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /55216CBE;
+Reference = D2;
+ValeurCmp = +;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /55216FD6;
+Reference = P1;
+ValeurCmp = Power&In;
+IdModule  = Connect:PINHEAD1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55217389;
+Reference = R1;
+ValeurCmp = 4.7KΩ;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /552173D2;
+Reference = R2;
+ValeurCmp = 4.7KΩ;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55217404;
+Reference = R3;
+ValeurCmp = 4.7KΩ;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55216BBD;
+Reference = R4;
+ValeurCmp = 220Ω;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55216C0B;
+Reference = R5;
+ValeurCmp = 220Ω;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55216A7A;
+Reference = U1;
+ValeurCmp = LM393;
+IdModule  = Sockets_DIP:DIP-8__300;
+EndCmp
+
+EndListe
